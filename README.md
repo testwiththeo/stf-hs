@@ -1,18 +1,7 @@
-<p align="center">
-  <img src="assets/stf-hs-logo.svg" alt="STF-HS Logo" width="860" />
-</p>
+## STF-HS
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SimPy" src="https://img.shields.io/badge/SimPy-Event%20Simulation-00A3FF?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-Tested-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img alt="CLI" src="https://img.shields.io/badge/CLI-Ready-1B8A5A?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Smart Test Factory - Hardware Simulation</strong><br/>
-  Config-driven QA data generation for software-hardware lab workflows.
-</p>
+**Smart Test Factory - Hardware Simulation**  
+Config-driven QA data generation for software-hardware lab workflows.
 
 ---
 
@@ -111,8 +100,6 @@ CLI Summary
 
 ```text
 .
-├── assets/
-│   └── stf-hs-logo.svg
 ├── examples/
 │   └── simulation_config.json
 ├── outputs/
