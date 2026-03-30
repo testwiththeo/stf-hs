@@ -1,0 +1,20 @@
+{
+  "equipment_id": "ROCKMAKER-01",
+  "start_time": "2026-03-29T00:00:00Z",
+  "duration_seconds": 120,
+  "interval_seconds": 10,
+  "seed": 101,
+  "temperature_sensor": {
+    "sensor_id": "temp-chamber-a",
+    "initial_celsius": 24.5,
+    "trend_per_step": 0.35,
+    "noise_stddev": 0.15,
+    "min_celsius": 18.0,
+    "max_celsius": 40.0,
+    "delay_seconds": 20,
+    "state_low_celsius": 22.0,
+    "state_high_celsius": 30.0,
+    "quality_min_celsius": 20.0,
+    "quality_max_celsius": 35.0
+  }
+}
