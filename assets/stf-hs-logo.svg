@@ -1,0 +1,32 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#1C2A44"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="70" x2="460" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00A3FF"/>
+      <stop offset="1" stop-color="#00D4B8"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="320" rx="26" fill="url(#bg)"/>
+
+  <rect x="72" y="62" width="335" height="196" rx="20" fill="#0F1A2D" stroke="url(#accent)" stroke-width="4"/>
+
+  <path d="M112 108H272" stroke="#00A3FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M112 160H226" stroke="#00D4B8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M112 212H312" stroke="#5CC8FF" stroke-width="8" stroke-linecap="round"/>
+
+  <circle cx="332" cy="108" r="10" fill="#00A3FF"/>
+  <circle cx="286" cy="160" r="10" fill="#00D4B8"/>
+  <circle cx="372" cy="212" r="10" fill="#5CC8FF"/>
+
+  <text x="460" y="142" fill="#F6FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="700">STF-HS</text>
+  <text x="462" y="196" fill="#9CB6D9" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="500">
+    Smart Test Factory · Hardware Simulation
+  </text>
+  <text x="462" y="236" fill="#6DE7CC" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">
+    QA Automation • Reproducible Sensor Data • Release Confidence
+  </text>
+</svg>
